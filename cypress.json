@@ -1,0 +1,13 @@
+{
+  "projectId": "ynmocv",
+  "pageLoadTimeout": 60000,
+  "experimentalSessionSupport": true,
+  "chromeWebSecurity": false,
+  "defaultCommandTimeout": 30000,
+  "viewportWidth": 1024,
+  "viewportHeight": 768,
+  "blockHosts": ["*accounts.google.com", "*fonts.googleapis.com"],
+  "retries": {
+    "runMode": 2
+  }
+}

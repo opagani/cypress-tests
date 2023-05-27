@@ -1,0 +1,6 @@
+{
+  "baseUrl": "https://www.qa.zillow.net",
+  "env": {
+    "backendBaseUrl": "https://comet1.testpads.net"
+  }
+}
